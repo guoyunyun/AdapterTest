@@ -26,6 +26,7 @@ typedef  NS_ENUM(NSInteger, DISPATCH){
 @property (strong, nonatomic) NSMutableArray *animalDatalist;
 @property (assign, nonatomic) DISPATCH dataType;
 
+
 @end
 
 @implementation ViewController
