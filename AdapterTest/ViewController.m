@@ -62,7 +62,7 @@ typedef  NS_ENUM(NSInteger, DISPATCH){
     self.tableview.backgroundColor = [UIColor clearColor];
 
     
-    NSLog(@"");
+    
 }
 
 - (NSMutableArray *)peopleDatalist{
